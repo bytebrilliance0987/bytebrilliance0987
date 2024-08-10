@@ -1,29 +1,28 @@
-###
+### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <br />
+  I'm a software engineer, specialising in the unique intersection of blockchain technology, web and desktop development.<br />
+With an expansive toolkit of programming languages and frameworks, I embody a holistic approach to software solutions, from top-tier front-end execution to seamless back-end processes.
+  
+In every project, I am driven by the challenge of creating impactful, efficient, and sustainable software solutions, utilising the power of technology to drive innovation and transformation.
 
-<h1 align="center">Full Stack AI & Web3 Developer</h1>
-
-###
-
-<br clear="both" />
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hightecular95908&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
-    height="175"
-    alt="languages graph" />
-  <img
-    src="https://streak-stats.demolab.com/?user=hightecular95908&theme=neon&hide_border=true&card_width=420"
-    height="175"
-    alt="languages graph" />
+<br />
+<div>
+  <p align="center">
+  <a href="https://github.com/0418v">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=0418v&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%" alt="activity graph">
+  </a>
+</p>
+  <p align="center">
+    <a href="https://github.com/0418v?tab=repositories">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=0418v&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@DH's github-readme-stats"/>
+    </a>
+    <a href="https://github.com/0418v?tab=stars">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=0418v&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@DH's github-readme-streak-stats"/>
+    </a>
+  </p>
 </div>
-
-###
-
-<h2 align="center">Popular Software Tools & Programming Languages</h2>
-
-###
-
-<br clear="both" />
 
 <table align="center">
   <tr>
@@ -45,11 +44,11 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/react-icon.svg"
-        alt="icon"
+        src="https://gydocument.readthedocs.io/en/latest/_images/logo.svg"
         width="65"
-        height="65" />
-      <br />React
+        height="65"
+        alt="solidity" />
+        <br />Solidity
     </td>
     <td align="center" width="128">
       <img
@@ -119,11 +118,11 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=bootstrap"
+        src="https://techstack-generator.vercel.app/react-icon.svg"
+        alt="icon"
         width="65"
-        height="65"
-        alt="bootstrap" />
-        <br />Bootstrap
+        height="65" />
+      <br />React
     </td>
     <td align="center" width="128">
       <img
@@ -151,11 +150,11 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=vscode"
+        src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"
         width="65"
         height="65"
-        alt="VsCode" />
-      <br />VsCode
+        alt="Rust" />
+      <br />Rust
     </td>
   </tr>
   <tr>
